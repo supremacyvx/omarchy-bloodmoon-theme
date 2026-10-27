@@ -36,7 +36,7 @@ omarchy theme install https://github.com/supremacyvx/omarchy-bloodmoon-theme
 
 <table>
   <tr>
-    <td><img src="backgrounds/bg1.jpg" width="220" alt="Bloodmoon wallpaper 1"></td>
+    <td><img src="backgrounds/bg1.webp" width="220" alt="Bloodmoon wallpaper 1"></td>
     <td><img src="backgrounds/bg2.png" width="220" alt="Bloodmoon wallpaper 2"></td>
   </tr>
 </table>
